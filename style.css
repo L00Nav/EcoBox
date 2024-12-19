@@ -1,0 +1,17 @@
+body {
+	background-color: #111111;
+	color: #aaaaaa;
+	/*width: 100vw;
+	height: 100vh;
+*/	margin: 0;
+}
+
+body * {
+	color: #aaaaaa;
+}
+
+.canvas {
+	display: block;
+	margin: 0 auto 0 auto;
+	padding-top: 50px;
+}
